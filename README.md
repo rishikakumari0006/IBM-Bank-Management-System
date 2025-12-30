@@ -24,7 +24,7 @@ Password: 1769
 g++ main.cpp -o bank
 ./bank
 
-## Team
+## Our Team
 Mohit Raj  
 Rishika Kumari  
 G. Omkeshwari  
